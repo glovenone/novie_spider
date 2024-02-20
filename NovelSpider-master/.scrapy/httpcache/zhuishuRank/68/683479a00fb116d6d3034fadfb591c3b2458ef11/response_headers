@@ -1,0 +1,19 @@
+Content-Type: application/json; charset=utf-8
+X-Response-Time: 54.316ms
+Age: 0
+Content-Encoding: gzip
+X-Url: /ranking/564d80d0e8c613016446c5aa?type=female
+X-Cache-Server: cache3
+Cache-Control: s-maxage=3600
+X-Req-Id: 08489940-2d96-11e8-8787-eb913ffaeac0
+X-Varnish: 208205801
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Credentials: true
+X-Cache: MISS
+X-Backend-Server: backend28-16645
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Etag: W/"10fb5-B+jM8hOgvt7UC8pAZEVvZA"
+Date: Thu, 22 Mar 2018 05:58:24 GMT
+Accept-Ranges: bytes
+Via: 1.1 varnish-v4
+Vary: Accept-Encoding

@@ -1,0 +1,20 @@
+Access-Control-Allow-Credentials: true
+X-Varnish: 961285994 958623171
+X-Cache: HIT
+Via: 1.1 varnish-v4
+Cache-Control: s-maxage=3600
+X-Url: /ranking/gender
+Content-Encoding: gzip
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+X-Response-Time: 18.544ms
+X-Backend-Server: backend25-25494
+X-Cache-Hits: 8094
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+X-Req-Id: bfca2440-2d8b-11e8-be01-c3af4d5bc602
+Content-Type: application/json; charset=utf-8
+Age: 861
+Date: Thu, 22 Mar 2018 04:44:47 GMT
+X-Cache-Server: cache3
+Access-Control-Allow-Headers: Content-Type
+Etag: W/"196b-7bhNC8T85ky4HjlVqibgRg"

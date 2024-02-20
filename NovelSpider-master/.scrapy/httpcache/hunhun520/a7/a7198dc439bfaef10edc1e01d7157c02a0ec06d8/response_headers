@@ -1,0 +1,8 @@
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Powered-By: PTcms
+Nginx-Cache: MISS
+Date: Wed, 14 Mar 2018 05:27:29 GMT
+Content-Type: text/html; charset=GBK
+Server: Tengine

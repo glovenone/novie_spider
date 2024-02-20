@@ -1,0 +1,5 @@
+User-Agent: Scrapy/1.5.0 (+https://scrapy.org)
+Referer: http://www.zhuishushenqi.com/search?val=%E6%A0%A1%E8%8A%B1%E7%9A%84%E5%85%A8%E8%83%BD%E4%BF%9D%E5%AE%89
+Accept-Language: en
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip,deflate

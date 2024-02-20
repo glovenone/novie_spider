@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="keywords" content="小说,无弹窗,免费小说,小说阅读网,追书神器">
+		<meta name="description" content="追书神器提供都市小说、玄幻小说、武侠小说、科幻小说、游戏小说、同人小说等免费小说。更新快,无书荒,无弹窗。">
+		<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		<title>追书神器_免费小说在线阅读,最新最好看的小说网</title>
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="/js/libs/iSlider/iSlider.min.css" />
+		<link rel='stylesheet' href='/css/errorPage-0053f6ad7e.css' />
+		<script src="/js/libs/html5shiv.js"></script>
+	</head>
+	<body>
+		<div class="c-full-top">
+    <div class="container clearfix">
+        <div class="connection">
+            <div class="follow">
+                <a>+关注</a>
+                <div class="qr-code follow-code">
+                    <div class="arrow-top"></div>
+                    <div class="block clearfix">
+                        <div class="sub-block">
+                            <img src="/images/qrcode/fuwuhao.png" alt="追书神器服务号">
+                            <p>微信</p>
+                        </div>
+                        <div class="sub-block right">
+                            <img src="/images/qrcode/weibo.png" alt="追书神器APP">
+                            <p>微博</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="space">|</span>
+            <div class="service">
+                <a>联系客服</a>
+                <div class="qr-code service-code">
+                    <div class="arrow-top"></div>
+                    <div class="block">
+                        <div class="sub-block">
+                            <img src="/images/qrcode/fuwuhao.png" alt="追书神器服务号">
+                            <p>关注微信</p>
+                            <p>可以联系客服妹子哦</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+		<header class="c-full-header">
+    <div class="brand">
+        <div class="container clearfix">
+            <a href="/"><img src="../../images/icon/logo.png" alt="追书神器" class="logo"></a>
+            <div class="search">
+                <input id="search-input" class="search-input" value="大主宰" type="text" placeholder="搜索书名或作者">
+                <a id="search-btn" class="search-btn"></a>
+            </div>
+        </div>
+    </div>
+    <div class="nav">
+        <div class="container">
+            <ul class="nav-cells">
+                <li class="nav-cell "><a href="/">首 页</a></li>
+                <li class="nav-cell "><a href="/selection/bzrt">精 选</a></li>
+                <li class="nav-cell "><a href="/category">分 类</a></li>
+                <li class="nav-cell "><a href="/booklist">书 单</a></li>
+                <li class="nav-cell "><a href="/ranking">排行榜</a></li>
+                <li id="nav-client" class="nav-cell">
+                    <a href="/download" target="_blank">客户端<i class="icon icon-phone"></i></a>
+                    <div class="qr-code">
+                        <h3 class="title">移动设备阅读</h3>
+                        <div class="block clearfix">
+                            <div class="sub-block">
+                                <img src="/images/qrcode/fuwuhao.png" alt="追书神器服务号">
+                                <p>服务号</p>
+                            </div>
+                            <div class="sub-block">
+                                <img src="/images/qrcode/download.png" alt="追书神器APP">
+                                <p>客户端</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <!-- <li class="nav-cell "><a href="/about">关于我们</a></li> -->
+            </ul>
+        </div>
+    </div>
+</header>
+		<input type="hidden" name="" id="" value="7" />
+		<section class="page-home container">
+			<div class="notFound">
+			</div>
+			<div class="recommend">
+				<div class="title">
+					<a class="name">
+						男频热推
+					</a>
+					<a href="/selection/bzrt" class="more">查看更多<span class="arrow-more"></span></a>
+				</div>
+				<div class="books-list-404">
+					
+					<a href="/book/58f175c7071d24c05e7ff727" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1498987%2F_1498987_332339.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="星际生存手册" class="cover" />
+                        <p>星际生存手册</p>
+						<p>泊小不</p>
+					</a>
+					
+					<a href="/book/59fc19156dfc1700473cb221" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F2172844%2F2172844_01086233934f4989b231a19332f53e31.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="超级农场系统" class="cover" />
+                        <p>超级农场系统</p>
+						<p>爱偷腥的猫</p>
+					</a>
+					
+					<a href="/book/56de717fb1ed7d0d62205077" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1205446%2F_1205446_786803.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="都市真仙" class="cover" />
+                        <p>都市真仙</p>
+						<p>逍遥幻想生</p>
+					</a>
+					
+					<a href="/book/55f6be45361775607f278575" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F857354%2F_857354_905465.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="神门" class="cover" />
+                        <p>神门</p>
+						<p>薪意</p>
+					</a>
+					
+					<a href="/book/571a00397e740345774a4910" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1187269%2F_1187269_604812.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="透视医圣" class="cover" />
+                        <p>透视医圣</p>
+						<p>大小写</p>
+					</a>
+					
+					<a href="/book/59466ab2f878e2c05122a773" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F2172695%2F2172695_6928262e98ea40188874abd7611d6657.jpg%2F' onerror="this.src = './images/img-bk.png'" alt="无上杀神" class="cover" />
+                        <p>无上杀神</p>
+						<p>邪心未泯</p>
+					</a>
+					
+					<a href="/book/582d3b65432198f40768de30" class="book-404">
+						<img src='http://statics.zhuishushenqi.com/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1315727%2F1315727_default_cover.png%2F' onerror="this.src = './images/img-bk.png'" alt="网游之孽天败家子" class="cover" />
+                        <p>网游之孽天败家子</p>
+						<p>龙骑大人</p>
+					</a>
+					
+				</div>
+			</div>
+		</section>
+		<footer class="c-full-footer">
+	<div class="container">
+		<div class="friend-link">
+			<span>友情链接:</span>
+			<a href="http://www.hanwujinian.com" target="_blank" rel="nofollow" title="寒武纪年原创网"><img src="/images/friend/hwjn.png" alt="寒武纪年原创网"></a>
+			<a href="http://lwcs.0708.com/t2/176/3668.html" target="_blank" rel="nofollow" title="北京掌趣科技股份有限公司"><img src="/images/friend/zq.png" alt="北京掌趣科技股份有限公司"></a>
+			<a href="http://www.2cloo.com" target="_blank" rel="nofollow" title="二层楼书院"><img src="/images/friend/ecl.jpg" alt="二层楼书院"></a>
+			<a href="http://www.anyew.cn" target="_blank" rel="nofollow" title="暗夜文学"><img src="/images/friend/ay.jpg" alt="暗夜文学"></a>
+			<a href="http://www.yidianling.com" target="_blank" rel="nofollow" title="壹点灵"><img src="/images/friend/yidianling.png" alt="壹点灵"></a>
+		</div>
+		<div class="foot clearfix">
+			<div class="footer-left">
+				<div class="info">
+					<a href="/download" target="_blank">客户端</a>
+					<span>|</span>
+					<a href="/about?type=aboutUs">关于我们</a>
+					<span>|</span>
+					<a href="/about?type=callUs">联系我们</a>
+					<span>|</span>
+					<a href="/about?type=joinUs">加入我们</a>
+				</div>
+				<!--<div class="copyRight">Copyright@zhuishushenqi.com ICP备：沪ICP备16003625号</div>-->
+				<div class="copyRight" style="width:300px;margin:0 auto; padding:20px 0;">
+			 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011202006103" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/images/icon/recordIcon.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31011202006103号</p></a>
+			 	</div>
+			</div>
+			<div class="footer-right">
+				<div class="public">
+					<div class="weibo">
+						<div id="footer-weibo" class="icon icon-weibo"></div>
+						<div class="qr-code weibo-code">
+							<div class="arrow-bottom"></div>
+							<div class="block">
+								<div class="sub-block">
+									<img src="/images/qrcode/weibo.png" alt="追书神器微博">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="weixin">
+						<div id="footer-weixin" class="icon icon-weixin"></div>
+						<div class="qr-code weixin-code">
+							<div class="arrow-bottom"></div>
+							<div class="block">
+								<div class="sub-block">
+									<img src="/images/qrcode/fuwuhao.png" alt="追书神器服务号">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="verticaleLine"></div>
+				<div class="text">
+					<p>关注追书微信公众号，可以</p>
+					<p>随时和我们反馈交流哦</p>
+				</div>
+			</div>
+		</div>
+		
+		<div id="top0" class="top0">
+			<span class="arrow-top"></span>
+			<p>顶部</p>
+		</div>
+		
+	</div>
+</footer>
+<script>
+	(function() {
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if(curProtocol === 'https') {
+			bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		} else {
+			bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+	})();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101493615-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--<script type="text/javascript">
+	var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cspan style='display:none' id='cnzz_stat_icon_1261698242'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1261698242' type='text/javascript'%3E%3C/script%3E"));
+</script>-->
+
+
+	</body>
+</html>
